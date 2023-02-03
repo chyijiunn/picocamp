@@ -1,4 +1,6 @@
 # PicoCamp@Trunking
+[](https://github.com/chyijiunn/picocamp/blob/main/PicoCamp.jpg)
+
 # Basic
 1. 點亮板上LED，確認連線無錯誤
 2. 玩蜂鳴器，好吵喔，可不可以關掉？
