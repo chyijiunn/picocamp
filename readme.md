@@ -1,5 +1,5 @@
 # PicoCamp@Trunking
-[](https://github.com/chyijiunn/picocamp/blob/main/PicoCamp.jpg)
+[fig](https://github.com/chyijiunn/picocamp/blob/main/PicoCamp.jpg)
 
 # Basic
 1. 點亮板上LED，確認連線無錯誤
