@@ -4,6 +4,7 @@ from ssd1306 import SSD1306_I2C#安裝 ssd1306
 i2c=I2C(0,sda=Pin(20), scl=Pin(21), freq=40000)
 oled = SSD1306_I2C(128, 64, i2c)
 
+oled.contrast(200)
 oled.fill(0)
 
 oled.text('hello',0,0)
